@@ -1,0 +1,16 @@
+{
+  "name": "start-loop",
+  "version": "0.0.1",
+  "description": "Start `main-loop` with `dom-delegator`.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ntran13/start-loop.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "dom-delegator": "^9.0.0",
+    "main-loop": "^2.3.0"
+  }
+}
